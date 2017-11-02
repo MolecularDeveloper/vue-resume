@@ -4,6 +4,8 @@ import Post from 'components/Posts/post';
 import CreatePost from 'components/Posts/createPost';
 import EditPost from 'components/Posts/editPost';
 import NotFound from 'components/NotFound/notFound';
+import Projects from 'components/Projects/projects';
+import Contact from 'components/Contact/contact';
 
 const routes = [
   {
@@ -18,6 +20,14 @@ const routes = [
     path: '/posts/create',
     name: 'createPost',
     component: CreatePost
+  },
+  {
+    path: '/contact',
+    component: Contact
+  },
+  {
+    path: '/projects',
+    component: Projects
   },
   {
     path: '/post/:id',
