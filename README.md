@@ -1,4 +1,5 @@
 # Vue.js starter template
+this is the pinnacle, the top, the peak, the xenith, apex.
 
 <p align="center">
   <img src="src/assets/images/logo.png" height="100" />
@@ -56,3 +57,5 @@ Runs the webpack module-bundler with production-settings (compress etc.) and bui
 
 ## Demo
 Navigate to [https://vue-starter.ville.io/](https://vue-starter.ville.io/) and see the awesomeness IRL :bowtie:
+
+Just making an edit on the readme file so as to track a change on a new branch. 
